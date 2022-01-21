@@ -24,7 +24,7 @@ yarn serve
 
 1. 在项目的 `src` 中的 `common` 文件夹中的 `web.json` 文件换成你自己的版本
 2. 将项目的 `src` 中的 `components` 文件夹中的 `HelloWorld.vue` 文件中的 `titleArray` 换成你自己的分类
-`
+
 ### 一、设置 json 格式
 
 >文件位置/src/common/web.json
@@ -131,3 +131,7 @@ yarn serve
 本页面目前部署在[vercel](https://vercel.com/)
 
 将修改后的项目，新建一个仓库并连接vercel自动打包部署，更多教程请自行搜索
+
+## 打赏
+
+<img width="200" src="./src/assets/img/alipay.jpg" alt="支付宝打赏">
