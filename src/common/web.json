@@ -5,7 +5,7 @@
       {
         "text": "今日热榜",
         "url": "https://tophub.today/",
-        "desc": "今天发生了什么"
+        "desc": "一觉醒来世界发生了什么"
       },
       {
         "text": "wikiHow",
@@ -14,7 +14,8 @@
       },
       {
         "text": "wallhaven 壁纸",
-        "url": "https://wallhaven.cc/"
+        "url": "https://wallhaven.cc/",
+        "desc": "这个壁纸网站我直接吹爆好吧!"
       },
       {
         "text": "Pexels 免费素材图片",
@@ -23,11 +24,13 @@
       },
       {
         "text": "iData",
-        "url": "https://www.cn-ki.net/"
+        "url": "https://www.cn-ki.net/",
+        "desc": "类似知网"
       },
       {
         "text": "医学微视",
-        "url": "https://www.mvyxws.com/"
+        "url": "https://www.mvyxws.com/",
+        "desc": "先看看专家怎么说，别去百度看病了"
       },
       {
         "text": "默沙东诊疗手册",
@@ -69,18 +72,23 @@
         "url": "http://tool.cc/fuhao/"
       },
       {
+        "text": "能不能好好说话？",
+        "url": "https://lab.magiconch.com/nbnhhsh/",
+        "desc": "拼音缩写释义"
+      },
+      {
         "text": "windy 天气",
         "url": "https://www.windy.com/"
       },
       {
         "text": "DeepL 翻译",
         "url": "https://www.deepl.com/",
-
         "desc": "更地道的翻译"
       },
       {
         "text": "GBT乐赏游戏空间",
-        "url": "http://gbtgame.ys168.com/"
+        "url": "http://gbtgame.ys168.com/",
+        "desc": "寻宝"
       },
       {
         "text": "Wuxia World",
@@ -91,11 +99,16 @@
         "text": "学发音",
         "url": "https://zh.forvo.com/languages/",
         "desc": "世界各地的母语者教你正确发音"
+      },
+      {
+        "text": "打字俱乐部",
+        "url": "https://www.typingclub.com/da-zi",
+        "desc": "纠正你的错误打字指法"
       }
     ]
   },
   {
-    "title": "趣味网站",
+    "title": "奇趣网站",
     "children": [
       {
         "text": "crazygames",
@@ -116,13 +129,11 @@
       {
         "text": "Mr.doob",
         "url": "https://mrdoob.com/",
-
         "desc": "有趣网页合集"
       },
       {
         "text": "beatstage 音游",
-        "url": "https://www.beatstage.com/",
-        "icon": "https://www.beatstage.com/favicon.ico"
+        "url": "https://www.beatstage.com/"
       },
       {
         "text": "找色差",
@@ -137,7 +148,6 @@
       {
         "text": "人生重开模拟器",
         "url": "http://liferestart.syaro.io/view/index.html",
-
         "desc": "这垃圾的人生一点也不想呆了"
       },
       {
@@ -147,9 +157,23 @@
       },
       {
         "text": "灵魂社区",
-        "url": "http://soulapartment.net/",
-        "icon": "http://soulapartment.net/favicon.ico",
+        "url": "https://soulapartment.net/",
         "desc": "暖心的社区"
+      },
+      {
+        "text": "emoji合成器",
+        "url": "https://tikolu.net/emojimix/",
+        "desc": "太好玩了，边玩边笑"
+      },
+      {
+        "text": "宝可梦杂交大师",
+        "url": "https://pokemon.alexonsager.net/zh",
+        "desc": "妙蛙火龙?我直接好家伙"
+      },
+      {
+        "text": "魔方栈",
+        "url": "https://huazhechen.gitee.io/cuber/",
+        "desc": "玩魔方，很丝滑"
       },
       {
         "text": "HTML5 神奇效果",
@@ -165,7 +189,6 @@
       {
         "text": "人工智障写作",
         "url": "http://if.caiyunai.com/dream/",
-
         "desc": "彩云小梦尝鲜版 - AI续写"
       },
       {
@@ -178,17 +201,6 @@
         "text": "地图生成器",
         "url": "https://azgaar.github.io/Fantasy-Map-Generator/",
         "desc": "Azgaar的幻想地图生成器"
-      },
-      {
-        "text": "behind the name",
-        "url": "https://www.behindthename.com/",
-
-        "desc": "名字的起源和历史"
-      },
-      {
-        "text": "能不能好好说话？",
-        "url": "https://lab.magiconch.com/nbnhhsh/",
-        "desc": "拼音缩写释义"
       },
       {
         "text": "Rain Mood",
@@ -205,15 +217,9 @@
       {
         "text": "window-swap",
         "url": "https://www.window-swap.com/",
-
         "desc": "开窗户"
       },
-      {
-        "text": "Selfie2Anime",
-        "url": "https://selfie2anime.com/",
 
-        "desc": "动漫头像生成"
-      },
       {
         "text": "hackertyper",
         "url": "http://hackcode.ishoulu.com/hackertyper/",
@@ -225,6 +231,22 @@
         "url": "http://hackcode.ishoulu.com/hackertyper/",
         "icon": "https://www.microsoft.com/favicon.ico",
         "desc": "假装Windows升级界面"
+      },
+
+      {
+        "text": "沙雕新闻",
+        "url": "https://shadiao.plus/",
+        "desc": "收集了很多沙雕社会新闻"
+      },
+      {
+        "text": "Pointer Pointer",
+        "url": "https://pointerpointer.com/",
+        "desc": "刷新一张指着你鼠标的图片"
+      },
+      {
+        "text": "在线架子鼓",
+        "url": "http://tool.mkblog.cn/durms",
+        "desc": "一套架子鼓，记得戴耳机!"
       }
     ]
   },
@@ -237,7 +259,8 @@
       },
       {
         "text": "BgRemover",
-        "url": "https://www.aigei.com/bgremover"
+        "url": "https://www.aigei.com/bgremover",
+        "desc": "抠图"
       },
       {
         "text": "皮卡智能抠图",
@@ -251,7 +274,7 @@
       {
         "text": "YASAI",
         "url": "https://wangyasai.github.io/designtools.html",
-        "desc": "一个设计工具"
+        "desc": "绝绝子艺术设计工具"
       },
       {
         "text": "slidesgo",
@@ -271,16 +294,17 @@
       {
         "text": "ShapeFactory",
         "url": "https://shapefactory.co",
-
         "desc": "LOGO、Duotone图片一键生成"
       },
       {
         "text": "Squoosh",
-        "url": "https://squoosh.app/"
+        "url": "https://squoosh.app/",
+        "desc": "超好用图片压缩网站"
       },
       {
         "text": "Iconfont",
-        "url": "https://www.iconfont.cn/"
+        "url": "https://www.iconfont.cn/",
+        "desc": "阿里矢量图标库"
       },
       {
         "text": "IconPark",
@@ -298,7 +322,12 @@
         "desc": "渐变色配色网站"
       },
       {
-        "text": "Creativemass",
+        "text": "中国传统色",
+        "url": "http://www.2kil.com/",
+        "desc": "每个颜色都该有它好听的名字!"
+      },
+      {
+        "text": "CreativeMass",
         "url": "https://creativemass.cn/",
         "desc": "创意导航网站"
       },
@@ -316,6 +345,27 @@
         "text": "油画转换",
         "url": "https://fotosketcher.com/",
         "desc": "用你的数码照片创造美丽的艺术作品"
+      },
+      {
+        "text": "Selfie2Anime",
+        "url": "https://selfie2anime.com/",
+        "desc": "动漫头像生成"
+      },
+      {
+        "text": "Plot Parade",
+        "url": "https://plotparade.com/",
+        "desc": "好看的条形图生成"
+      },
+      {
+        "text": "Pixel Bubble",
+        "url": "https://pixelspeechbubble.com/",
+        "desc": "生成像素风对话框"
+      },
+      {
+        "text": "立绘生成",
+        "url": "https://resdiy.evkworld.cn/",
+        "icon": "https://api.uomg.com/api/get.favicon?url=https://resdiy.evkworld.cn/",
+        "desc": "自动生成立绘"
       }
     ]
   },
@@ -331,6 +381,11 @@
         "url": "https://tools.miku.ac/"
       },
       {
+        "text": "孟坤工具箱",
+        "url": "http://tool.mkblog.cn/",
+        "desc": "LOGO 生成以及各种在线音乐工具等"
+      },
+      {
         "text": "Text-Difference",
         "url": "https://www.qianbo.com.cn/Tool/Text-Difference/",
         "desc": "在线文本对比工具"
@@ -338,7 +393,6 @@
       {
         "text": "waifu2x",
         "url": "http://waifu2x.udp.jp/",
-
         "desc": "图片画质增强"
       },
       {
@@ -362,7 +416,6 @@
       {
         "text": " LALAL.AI",
         "url": "https://www.lalal.ai/",
-
         "desc": "伴奏提取"
       },
       {
@@ -533,12 +586,28 @@
     "title": "冷门网站",
     "children": [
       {
+        "text": "中国古籍保护网",
+        "url": "http://www.nlc.cn/pcab/zy/zhgj_zyk/",
+        "desc": "看古籍的"
+      },
+      {
+        "text": "behind the name",
+        "url": "https://www.behindthename.com/",
+        "desc": "名字的起源和历史"
+      },
+      {
+        "text": "鲁迅说过吗?",
+        "url": "http://www.luxunmuseum.com.cn/cx/",
+        "icon": "https://api.uomg.com/api/get.favicon?url=http://www.luxunmuseum.com.cn/cx/",
+        "desc": "我确实说过这句话——鲁迅"
+      },
+      {
         "text": "海の見える駅を探す",
         "url": "https://seaside-station.com/region/hokkaido/",
         "desc": "记录日本靠海的车站"
       },
       {
-        "text": "全国高校制服図鑑",
+        "text": "日本高校制服図鑑",
         "url": "http://www.seihuku-zukan.com/",
         "icon": "http://uniform.wingzero.tw/favicon.png"
       }
