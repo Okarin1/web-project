@@ -1,5 +1,6 @@
 <template>
   <div class="okarin">
+    <poem/>
     <div class="content-box">
       <div v-for="(item, index) in titleArray" :key="index">
         <h2>
@@ -15,9 +16,10 @@
 </template>
 
 <script>
+import Poem from './Poem.vue'
 import WebLinks from "./WebLinks.vue"
 export default {
-  components: { WebLinks},
+  components: { WebLinks, Poem},
   name: "HelloWorld",
   data() {
     return {
