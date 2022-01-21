@@ -25,7 +25,8 @@ title {
   font-size: 2.5em;
   // border-bottom: 4px solid @theme-color;
 }
-title::after{
+
+title::after {
   position: absolute;
   display: block;
   content: " ";
@@ -40,6 +41,7 @@ p,
 ul {
   line-height: 1.8;
 }
+
 //滚动条
 
 html::-webkit-scrollbar {
@@ -69,6 +71,7 @@ h2:before {
     margin-inline-start: 0px;
     margin-inline-end: 0px;
   }
+
   blockquote {
     font-size: 0.9rem;
     color: #999;
@@ -77,6 +80,7 @@ h2:before {
     margin: 0.5rem 0;
     padding: 0.25rem 0.25rem 0.25rem 1rem;
   }
+
   code {
     color: #476582;
     padding: 0.25rem 0.5rem;
@@ -86,6 +90,7 @@ h2:before {
     background-color: rgba(27, 31, 35, 0.05);
     border-radius: 3px;
   }
+
   a {
     font-weight: 500;
     color: @theme-color;
@@ -102,11 +107,11 @@ h2:before {
     content: "";
     width: 1em;
     height: 1em;
-    color: #aaa;
     background-image: url("data:image/svg+xml;charset=utf-8;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIGFyaWEtaGlkZGVuPSd0cnVlJyBmb2N1c2FibGU9J2ZhbHNlJyB4PScwcHgnIHk9JzBweCcgdmlld0JveD0nMCAwIDEwMCAxMDAnIHdpZHRoPScxNXB4JyBoZWlnaHQ9JzE1cHgnPjxwYXRoIGZpbGw9JyAjYWFhJyBkPSdNMTguOCw4NS4xaDU2bDAsMGMyLjIsMCw0LTEuOCw0LTR2LTMyaC04djI4aC00OHYtNDhoMjh2LThoLTMybDAsMGMtMi4yLDAtNCwxLjgtNCw0djU2QzE0LjgsODMuMywxNi42LDg1LjEsMTguOCw4NS4xeic+PC9wYXRoPjxwb2x5Z29uIGZpbGw9JyNhYWEnIHBvaW50cz0nNDUuNyw0OC43IDUxLjMsNTQuMyA3Ny4yLDI4LjUgNzcuMiwzNy4yIDg1LjIsMzcuMiA4NS4yLDE0LjkgNjIuOCwxNC45IDYyLjgsMjIuOSA3MS41LDIyLjknPjwvcG9seWdvbj48L3N2Zz4=");
     background-size: cover;
   }
 
+  //容器
   .tip {
     display: block;
     background-color: @code-color;
@@ -115,6 +120,7 @@ h2:before {
     border-left-width: 0.5rem;
     border-left-style: solid;
     margin: 1rem 0;
+
     .title {
       font-weight: 600;
       margin-bottom: -0.4rem;
@@ -126,15 +132,18 @@ h2:before {
     border-color: @warning-color;
     background-color: #ffe5644d;
     color: #6b5900;
+
     .title {
       color: #b29400;
     }
   }
+
   .danger {
     .tip();
     border-color: @danger-color;
     background-color: #ffe6e6;
     color: #4d0000;
+
     .title {
       color: #900;
     }
@@ -145,16 +154,19 @@ h2:before {
     padding: 0.1rem 1.5rem;
     border-radius: 0.4rem;
     background-color: @code-color;
+
     .title {
       margin-top: 0;
       font-weight: 700;
     }
+
     .right {
       font-size: 0.9rem;
       text-align: right;
     }
   }
 
+  //徽章
   .badge {
     display: inline-block;
     font-size: 14px;
@@ -164,13 +176,20 @@ h2:before {
     margin: 0 4px 0;
     padding: 0 6px;
     color: #fff;
+
     &-tip {
       background-color: @tip-color;
     }
+
     &-warning {
       background-color: @warning-color;
     }
+
+    &-theme {
+      background-color: @theme-color
+    }
   }
+
   .footer {
     padding: 2.5rem;
     margin-top: 100px;
