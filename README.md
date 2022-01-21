@@ -29,7 +29,7 @@ yarn serve
 
 >文件位置/src/common/web.json
 
-```json
+```js
 [
   {
     "title": "实用网站", //分类名字
