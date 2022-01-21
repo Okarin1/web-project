@@ -1,0 +1,547 @@
+[
+  {
+    "title": "实用网站",
+    "children": [
+      {
+        "text": "今日热榜",
+        "url": "https://tophub.today/",
+        "desc": "今天发生了什么"
+      },
+      {
+        "text": "wikiHow",
+        "url": "https://zh.wikihow.com/",
+        "desc": "互联网上最值得信赖的指南网站"
+      },
+      {
+        "text": "wallhaven 壁纸",
+        "url": "https://wallhaven.cc/"
+      },
+      {
+        "text": "Pexels 免费素材图片",
+        "url": "https://www.pexels.com/",
+        "desc": "才华横溢的摄影作者在这里免费分享最精彩的素材图片和视频"
+      },
+      {
+        "text": "iData",
+        "url": "https://www.cn-ki.net/"
+      },
+      {
+        "text": "医学微视",
+        "url": "https://www.mvyxws.com/"
+      },
+      {
+        "text": "默沙东诊疗手册",
+        "url": "https://www.msdmanuals.cn/",
+        "desc": "一个涵盖了医学所有领域成千上万主题的广泛医学信息来源。"
+      },
+      {
+        "text": "热点后续",
+        "url": "https://houxu.app/",
+        "desc": "有记忆的新闻，持续追踪社会热点"
+      },
+      {
+        "text": "万能法律咨询",
+        "url": "https://ai.12348.gov.cn/pc/",
+        "icon": "https://api.uomg.com/api/get.favicon?url=https://ai.12348.gov.cn/pc/",
+        "desc": "根据问卷提示填写相关信息，在线为您免费出具法律意见书，供您参考"
+      },
+      {
+        "text": "全历史",
+        "url": "https://www.allhistory.com/",
+        "desc": "知识地图制作分享平台，它将地图和文字结合，反映中国历史、军事、地理、文化等方面的知识"
+      },
+      {
+        "text": "中国地图",
+        "url": "https://www.ageeye.cn/",
+        "desc": "沉浸在纵横开阔、左图右史的知识海洋中"
+      },
+      {
+        "text": "做音乐",
+        "url": "https://learningmusic.ableton.com/",
+        "desc": "学习到音乐创作的基础知识，无需任何经验或设备，在浏览器中完成所有工作"
+      },
+      {
+        "text": "微词云",
+        "url": "https://www.weiciyun.com/"
+      },
+      {
+        "text": "特殊符号大全",
+        "url": "http://tool.cc/fuhao/"
+      },
+      {
+        "text": "windy 天气",
+        "url": "https://www.windy.com/"
+      },
+      {
+        "text": "DeepL 翻译",
+        "url": "https://www.deepl.com/",
+
+        "desc": "更地道的翻译"
+      },
+      {
+        "text": "GBT乐赏游戏空间",
+        "url": "http://gbtgame.ys168.com/"
+      },
+      {
+        "text": "Wuxia World",
+        "url": "https://www.wuxiaworld.com/",
+        "desc": "海外版的起点小说网，看小说的同时学习英文"
+      },
+      {
+        "text": "学发音",
+        "url": "https://zh.forvo.com/languages/",
+        "desc": "世界各地的母语者教你正确发音"
+      }
+    ]
+  },
+  {
+    "title": "趣味网站",
+    "children": [
+      {
+        "text": "crazygames",
+        "url": "https://www.crazygames.com/",
+
+        "desc": "在线游戏网站"
+      },
+      {
+        "text": "indiexpo",
+        "url": "https://www.indiexpo.net/zh",
+        "desc": "独立游戏网站"
+      },
+      {
+        "text": "Yikm",
+        "url": "https://www.yikm.net",
+        "desc": "复古游戏网站"
+      },
+      {
+        "text": "Mr.doob",
+        "url": "https://mrdoob.com/",
+
+        "desc": "有趣网页合集"
+      },
+      {
+        "text": "beatstage 音游",
+        "url": "https://www.beatstage.com/",
+        "icon": "https://www.beatstage.com/favicon.ico"
+      },
+      {
+        "text": "找色差",
+        "url": "http://www.cuishuai.cc/game/",
+        "desc": "它说我是个瞎子???"
+      },
+      {
+        "text": "解谜游戏",
+        "url": "https://nazo.one-story.cn/",
+        "desc": "目前第11关"
+      },
+      {
+        "text": "人生重开模拟器",
+        "url": "http://liferestart.syaro.io/view/index.html",
+
+        "desc": "这垃圾的人生一点也不想呆了"
+      },
+      {
+        "text": "TouchPianist",
+        "url": "http://touchpianist.com/",
+        "desc": "超美在线钢琴网站"
+      },
+      {
+        "text": "灵魂社区",
+        "url": "http://soulapartment.net/",
+        "icon": "http://soulapartment.net/favicon.ico",
+        "desc": "暖心的社区"
+      },
+      {
+        "text": "HTML5 神奇效果",
+        "url": "http://fff.cmiscm.com/",
+        "icon": "https://api.uomg.com/api/get.favicon?url=http://fff.cmiscm.com/",
+        "desc": "各种神奇效果"
+      },
+      {
+        "text": "GNOOSIC",
+        "url": "https://www.gnoosic.com/faves.php",
+        "desc": "AI音乐推荐"
+      },
+      {
+        "text": "人工智障写作",
+        "url": "http://if.caiyunai.com/dream/",
+
+        "desc": "彩云小梦尝鲜版 - AI续写"
+      },
+      {
+        "text": "Dear Website",
+        "url": "https://www.thiswebsitewillselfdestruct.com/",
+        "icon": "https://i.loli.net/2021/11/20/a18pevYWqrlUD9V.png",
+        "desc": "一个会自杀的网站"
+      },
+      {
+        "text": "地图生成器",
+        "url": "https://azgaar.github.io/Fantasy-Map-Generator/",
+        "desc": "Azgaar的幻想地图生成器"
+      },
+      {
+        "text": "behind the name",
+        "url": "https://www.behindthename.com/",
+
+        "desc": "名字的起源和历史"
+      },
+      {
+        "text": "能不能好好说话？",
+        "url": "https://lab.magiconch.com/nbnhhsh/",
+        "desc": "拼音缩写释义"
+      },
+      {
+        "text": "Rain Mood",
+        "url": "https://www.rainymood.com/",
+        "icon": "https://www.rainymood.com/favicon.ico",
+        "desc": "听雨的声音"
+      },
+      {
+        "text": "A SOFT MURMUR",
+        "url": "https://asoftmurmur.com/",
+        "icon": "https://asoftmurmur.com/favicon.ico",
+        "desc": "背景白噪音"
+      },
+      {
+        "text": "window-swap",
+        "url": "https://www.window-swap.com/",
+
+        "desc": "开窗户"
+      },
+      {
+        "text": "Selfie2Anime",
+        "url": "https://selfie2anime.com/",
+
+        "desc": "动漫头像生成"
+      },
+      {
+        "text": "hackertyper",
+        "url": "http://hackcode.ishoulu.com/hackertyper/",
+        "icon": "https://www.iplaysoft.com/favicon.ico",
+        "desc": "假装黑客"
+      },
+      {
+        "text": "Windows Update Prank",
+        "url": "http://hackcode.ishoulu.com/hackertyper/",
+        "icon": "https://www.microsoft.com/favicon.ico",
+        "desc": "假装Windows升级界面"
+      }
+    ]
+  },
+  {
+    "title": "剪辑设计",
+    "children": [
+      {
+        "text": "稿定抠图",
+        "url": "https://www.gaoding.com/koutu"
+      },
+      {
+        "text": "BgRemover",
+        "url": "https://www.aigei.com/bgremover"
+      },
+      {
+        "text": "皮卡智能抠图",
+        "url": "https://www.picup.shop/currencyBatch.html"
+      },
+      {
+        "text": "创客贴",
+        "url": "https://www.chuangkit.com/dc.html",
+        "desc": "在线平面设计工具"
+      },
+      {
+        "text": "YASAI",
+        "url": "https://wangyasai.github.io/designtools.html",
+        "desc": "一个设计工具"
+      },
+      {
+        "text": "slidesgo",
+        "url": "https://slidesgo.com/theme/isometric-proposal",
+        "desc": "免费谷歌幻灯片主题和PowerPoint模板"
+      },
+      {
+        "text": "SVG背景图案",
+        "url": "https://cn.pattern.monster/",
+        "desc": "一个简单的重复性SVG图案在线生成器"
+      },
+      {
+        "text": "书法生成",
+        "url": "http://www.ziticq.com/shufa/",
+        "desc": "在线书法字体生成，AI矢量书法字体"
+      },
+      {
+        "text": "ShapeFactory",
+        "url": "https://shapefactory.co",
+
+        "desc": "LOGO、Duotone图片一键生成"
+      },
+      {
+        "text": "Squoosh",
+        "url": "https://squoosh.app/"
+      },
+      {
+        "text": "Iconfont",
+        "url": "https://www.iconfont.cn/"
+      },
+      {
+        "text": "IconPark",
+        "url": "https://iconpark.oceanengine.com/"
+      },
+      {
+        "text": "Font Awesome 中文网",
+        "url": "http://www.fontawesome.com.cn/faicons/",
+        "icon": "https://fontawesome.com/favicon.ico"
+      },
+      {
+        "text": "Free Mesh Gradient",
+        "url": "https://products.ls.graphics/mesh-gradients/",
+        "icon": "https://assets-global.website-files.com/5bfd1275cc56e15ce750b18e/5bfd1275cc56e1460d50b19d_Logo%20Copy%202.svg",
+        "desc": "渐变色配色网站"
+      },
+      {
+        "text": "Creativemass",
+        "url": "https://creativemass.cn/",
+        "desc": "创意导航网站"
+      },
+      {
+        "text": "设计导航",
+        "url": "https://hao.shejidaren.com/",
+        "icon": "https://api.uomg.com/api/get.favicon?url=https://hao.shejidaren.com/",
+        "desc": "设计导航网站"
+      },
+      {
+        "text": "切九图",
+        "url": "https://lab.magiconch.com/v/sns-image"
+      },
+      {
+        "text": "油画转换",
+        "url": "https://fotosketcher.com/",
+        "desc": "用你的数码照片创造美丽的艺术作品"
+      }
+    ]
+  },
+  {
+    "title": "工具合集",
+    "children": [
+      {
+        "text": "Tool 工具箱",
+        "url": "https://tool.lu/"
+      },
+      {
+        "text": "Miku 工具箱",
+        "url": "https://tools.miku.ac/"
+      },
+      {
+        "text": "Text-Difference",
+        "url": "https://www.qianbo.com.cn/Tool/Text-Difference/",
+        "desc": "在线文本对比工具"
+      },
+      {
+        "text": "waifu2x",
+        "url": "http://waifu2x.udp.jp/",
+
+        "desc": "图片画质增强"
+      },
+      {
+        "text": "alltoall 格式转换",
+        "url": "https://www.alltoall.net/"
+      },
+      {
+        "text": "aconvert 格式转换",
+        "url": "https://www.aconvert.com/"
+      },
+      {
+        "text": "AirPortal 空投",
+        "url": "https://airportal.cn/",
+        "desc": "只要您的设备联网，您就可以通过它在任意系统、任意设备间传输文件"
+      },
+      {
+        "text": "AI音轨分离",
+        "url": "https://dango.ai/",
+        "desc": "借助我们音质至上的AI技术，您可以从任何音频中分离出伴奏，人声，和声，鼓点，贝斯等轨道"
+      },
+      {
+        "text": " LALAL.AI",
+        "url": "https://www.lalal.ai/",
+
+        "desc": "伴奏提取"
+      },
+      {
+        "text": "菜鸟工具",
+        "url": "https://c.runoob.com/"
+      },
+      {
+        "text": "OSCHINA",
+        "url": "https://tool.oschina.net/"
+      },
+      {
+        "text": "脚本之家",
+        "url": "http://tools.jb51.net/"
+      },
+      {
+        "text": "W3Cschool",
+        "url": "https://123.w3cschool.cn/webtools"
+      }
+    ]
+  },
+  {
+    "title": "前端相关",
+    "children": [
+      {
+        "text": "VueJs",
+        "url": "https://cn.vuejs.org/"
+      },
+      {
+        "text": "Element-UI",
+        "url": "https://element-plus.gitee.io/zh-CN/"
+      },
+      {
+        "text": "View UI",
+        "url": "https://www.iviewui.com/"
+      },
+      {
+        "text": "Vant UI",
+        "url": "https://youzan.github.io/vant/#/zh-CN/"
+      },
+      {
+        "text": "React",
+        "url": "https://zh-hans.reactjs.org/"
+      },
+      {
+        "text": "Ant Design",
+        "url": "https://ant.design/"
+      },
+      {
+        "text": "React Bootstrap",
+        "url": "https://react-bootstrap.github.io/ "
+      },
+      {
+        "text": "MATERIAL-UI",
+        "url": "https://material-ui.com/"
+      },
+      {
+        "text": "Meditor.md",
+        "url": "https://pandao.github.io/editor.md/"
+      },
+      {
+        "text": "Swiper",
+        "url": "https://www.swiper.com.cn/"
+      },
+      {
+        "text": "Can I use",
+        "url": "https://caniuse.com/"
+      },
+      {
+        "text": "Apache ECharts",
+        "url": "https://echarts.apache.org/zh/"
+      }
+    ]
+  },
+  {
+    "title": "JavaScript相关",
+    "children": [
+      {
+        "text": "Lodash",
+        "url": "https://www.lodashjs.com/"
+      },
+      {
+        "text": "Day.js",
+        "url": "https://dayjs.fenxianglu.cn/"
+      },
+      {
+        "text": "timeago.js",
+        "url": "https://github.com/hustcc/timeago.js"
+      },
+      {
+        "text": "validator.js",
+        "url": "https://github.com/validatorjs/validator.js"
+      },
+      {
+        "text": "mescroll.js",
+        "url": "http://www.mescroll.com/api.html"
+      },
+      {
+        "text": "echarts",
+        "url": "https://echarts.apache.org/zh/index.html"
+      }
+    ]
+  },
+  {
+    "title": "CSS相关",
+    "children": [
+      {
+        "text": "CSS ICON",
+        "url": "https://cssicon.space/"
+      },
+      {
+        "text": "CSS.gg",
+        "url": "https://css.gg/",
+        "desc": "700+用CSS做的图标"
+      },
+      {
+        "text": "Animate.css",
+        "url": "https://animate.style/"
+      },
+      {
+        "text": "Font Awesome Animation",
+        "url": "https://l-lin.github.io/font-awesome-animation/"
+      },
+      {
+        "text": "Image Effects with CSS",
+        "url": "https://bennettfeely.com/image-effects/"
+      },
+      {
+        "text": "CSS triangle generator",
+        "url": "http://apps.eky.hk/css-triangle-generator/"
+      },
+      {
+        "text": "SASS to CSS",
+        "url": "https://www.sassmeister.com/"
+      }
+    ]
+  },
+  {
+    "title": "Vue轮子",
+    "children": [
+      {
+        "text": "Vue-draggable",
+        "url": "https://www.itxst.com/vue-draggable/tutorial.html"
+      },
+      {
+        "text": "Vue-qr",
+        "url": "https://www.npmjs.com/package/vue-qr"
+      },
+      {
+        "text": "Vue-cropper",
+        "url": "https://github.com/xyxiao001/vue-cropper"
+      },
+      {
+        "text": "Vue-lazyload",
+        "url": "https://www.npmjs.com/package/vue-lazyload"
+      },
+      {
+        "text": "Vue-simple-upload",
+        "url": "https://github.com/saivarunk/vue-simple-upload"
+      },
+      {
+        "text": "Vxe-table",
+        "url": "https://xuliangzhan_admin.gitee.io/vxe-table",
+        "icon": "https://xuliangzhan_admin.gitee.io/vxe-table/logo.png"
+      }
+    ]
+  },
+  {
+    "title": "冷门网站",
+    "children": [
+      {
+        "text": "海の見える駅を探す",
+        "url": "https://seaside-station.com/region/hokkaido/",
+        "desc": "记录日本靠海的车站"
+      },
+      {
+        "text": "全国高校制服図鑑",
+        "url": "http://www.seihuku-zukan.com/",
+        "icon": "http://uniform.wingzero.tw/favicon.png"
+      }
+    ]
+  }
+]
