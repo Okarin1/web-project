@@ -1,6 +1,8 @@
-[{
+[
+  {
     "title": "实用网站",
-    "children": [{
+    "children": [
+      {
         "text": "今日热榜",
         "url": "https://tophub.today/",
         "desc": "一觉醒来世界发生了什么"
@@ -107,7 +109,8 @@
   },
   {
     "title": "奇趣网站",
-    "children": [{
+    "children": [
+      {
         "text": "crazygames",
         "url": "https://www.crazygames.com/",
 
@@ -249,7 +252,8 @@
   },
   {
     "title": "剪辑设计",
-    "children": [{
+    "children": [
+      {
         "text": "稿定抠图",
         "url": "https://www.gaoding.com/koutu"
       },
@@ -367,7 +371,8 @@
   },
   {
     "title": "工具合集",
-    "children": [{
+    "children": [
+      {
         "text": "Tool 工具箱",
         "url": "https://tool.lu/"
       },
@@ -433,7 +438,8 @@
   },
   {
     "title": "前端相关",
-    "children": [{
+    "children": [
+      {
         "text": "VueJs",
         "url": "https://cn.vuejs.org/"
       },
@@ -485,7 +491,8 @@
   },
   {
     "title": "JavaScript相关",
-    "children": [{
+    "children": [
+      {
         "text": "Lodash",
         "url": "https://www.lodashjs.com/"
       },
@@ -513,7 +520,8 @@
   },
   {
     "title": "CSS相关",
-    "children": [{
+    "children": [
+      {
         "text": "CSS ICON",
         "url": "https://cssicon.space/"
       },
@@ -546,7 +554,8 @@
   },
   {
     "title": "Vue轮子",
-    "children": [{
+    "children": [
+      {
         "text": "Vue-draggable",
         "url": "https://www.itxst.com/vue-draggable/tutorial.html"
       },
@@ -575,7 +584,8 @@
   },
   {
     "title": "冷门网站",
-    "children": [{
+    "children": [
+      {
         "text": "中国古籍保护网",
         "url": "http://www.nlc.cn/pcab/zy/zhgj_zyk/",
         "desc": "看古籍的"

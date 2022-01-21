@@ -59,7 +59,6 @@ meta[name="description"] {
   color: #999;
 
 }
-
 meta[name="description"]:after {
   content: attr(content);
 }
