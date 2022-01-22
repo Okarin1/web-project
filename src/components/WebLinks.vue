@@ -32,7 +32,7 @@ export default {
     showIcon(item) {
       return item.icon
         ? item.icon
-        : `https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=${item.url}&size=32`
+        : `https://favicon.okarin.workers.dev/api/getFavicon?url=${item.url}&size=32`
       // return `https://api.uomg.com/api/get.favicon?url=${item.url}`
     },
     webCount(navbars) {
