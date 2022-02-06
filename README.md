@@ -122,7 +122,7 @@ yarn serve
 
 ```html
 <div class="footer">
-      MIT Licensed | Copyright © 2022-present <a href="https://weibo.com/u/6331216566" target="_blank">@Okarin</a>
+      MIT Licensed | Copyright © 2022-present  <a href="https://github.com/Okarin1/web-project" target="_blank">@Okarin</a>
 </div>
 ```
 

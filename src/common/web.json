@@ -420,7 +420,8 @@
       },
       {
         "text": "菜鸟工具",
-        "url": "https://c.runoob.com/"
+        "url": "https://c.runoob.com/",
+        "icon": "https://api.uomg.com/api/get.favicon?url=https://c.runoob.com/"
       },
       {
         "text": "OSCHINA",
