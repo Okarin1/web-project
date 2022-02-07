@@ -113,7 +113,6 @@
       {
         "text": "crazygames",
         "url": "https://www.crazygames.com/",
-
         "desc": "在线游戏网站"
       },
       {
@@ -130,6 +129,11 @@
         "text": "Mr.doob",
         "url": "https://mrdoob.com/",
         "desc": "有趣网页合集"
+      },
+      {
+        "text": "雀魂麻将",
+        "url": "https://game.maj-soul.com/1/",
+        "desc": "荣!断幺九!1000点!"
       },
       {
         "text": "beatstage 音游",
@@ -290,6 +294,11 @@
         "text": "书法生成",
         "url": "http://www.ziticq.com/shufa/",
         "desc": "在线书法字体生成，AI矢量书法字体"
+      },
+      {
+        "text": "英文花体生成",
+        "url": "https://w2w.okarin.cn/",
+        "desc": "安利一波自己做的小工具"
       },
       {
         "text": "ShapeFactory",
