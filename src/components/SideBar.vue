@@ -5,9 +5,9 @@
         v-for="(item, index) in sideArray"
         :key="item"
         @click="sideClick(item, index)"
-        :class="{ active: index == currentIndex }"
+        :class="{ active: index == afterIndex}"
       >
-        <p class="side-link">{{ item }}</p>
+        <a class="side-link" :href="`#${item}`" :class="{ active: index == afterIndex}">{{ item }}</a>
       </li>
     </ul>
   </div>
@@ -19,22 +19,28 @@ export default {
     sideArray: {
       type: Array,
       default: () => {
-        return []
+        return [];
       },
     },
+    topIndex: 0,
   },
   data() {
     return {
       currentIndex: 0,
-    }
+    };
   },
   methods: {
     sideClick(item, index) {
-      this.currentIndex = index
-      this.$emit("item-click", item)
+      this.currentIndex = index;
+      document.getElementById(item).scrollIntoView();
     },
   },
-}
+  computed:{
+    afterIndex(){
+      return Math.max(this.topIndex,this.currentIndex)
+    }
+  }
+};
 </script>
 
 <style lang="less" scoped>
@@ -64,8 +70,11 @@ export default {
       padding: 0.35rem 1rem 0.35rem 1.25rem;
       line-height: 1;
     }
-    p {
+    a {
+      color: #000;
+      text-decoration: none;
       &:hover {
+        
         color: @theme-color;
       }
     }
@@ -76,7 +85,7 @@ export default {
   height: 0;
 }
 .active {
-  color: @theme-color;
+  color: @theme-color !important;
   border-left-color: @theme-color !important;
 }
 

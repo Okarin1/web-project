@@ -17,4 +17,5 @@ export default {
 <style lang="less">
 @import "assets/css/base.css";
 @import "assets/css/okarin.less";
+
 </style>

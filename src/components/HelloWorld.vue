@@ -2,7 +2,7 @@
   <div class="okarin">
     <poem />
     <div class="content-box">
-      <div v-for="(item, index) in titleArray" :key="index">
+      <div v-for="(item, index) in titleArray" ref="webBar" :key="index">
         <h2 :id="item">
           {{ item }}
           <span class="badge badge-theme" style="vertical-align: top">{{
@@ -18,7 +18,10 @@
         >
       </div>
     </div>
-    <side-bar :sideArray="titleArray" @item-click="sideClick" />
+    <side-bar
+      :sideArray="titleArray"
+      :topIndex="topIndex"
+    />
   </div>
 </template>
 
@@ -43,17 +46,26 @@ export default {
         "冷门网站",
       ],
       webCount: [],
+      barTop: [],
+      topIndex: 0,
     };
   },
-  methods: {
-    sideClick(item) {
-      document.getElementById(item).scrollIntoView();
-    },
-  },
-  mounted() {
+  created() {
     this.$nextTick(() => {
       for (let i in this.titleArray) {
         this.webCount.push(this.$refs.child[i].webCount(this.titleArray[i]));
+      }
+      this.$nextTick(() => {
+        this.barTop = this.$refs.webBar.map((res) => {
+          return res.offsetTop;
+        });
+      });
+    });
+    window.addEventListener("scroll", () => {
+      for (let s of this.barTop) {
+        if (window.scrollY > s) {
+          this.topIndex = this.barTop.indexOf(s);
+        }
       }
     });
   },
