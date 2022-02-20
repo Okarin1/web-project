@@ -375,6 +375,16 @@
         "url": "https://resdiy.evkworld.cn/",
         "icon": "https://api.uomg.com/api/get.favicon?url=https://resdiy.evkworld.cn/",
         "desc": "自动生成立绘"
+      },
+      {
+        "text": "O'RLY封面工厂",
+        "url": "https://orly.nanmu.me/",
+        "desc": "生成动物书封面"
+      },
+      {
+        "text": "Greate Beautiful Posts",
+        "url": "https://poet.so/",
+        "desc": "生成像素风对话框"
       }
     ]
   },
@@ -567,7 +577,8 @@
     "children": [
       {
         "text": "Vue-draggable",
-        "url": "https://www.itxst.com/vue-draggable/tutorial.html"
+        "url": "https://www.itxst.com/vue-draggable/tutorial.html",
+        "desc": "Vue拖拽轮子"
       },
       {
         "text": "Vue-qr",
@@ -589,6 +600,11 @@
         "text": "Vxe-table",
         "url": "https://xuliangzhan_admin.gitee.io/vxe-table",
         "icon": "https://xuliangzhan_admin.gitee.io/vxe-table/logo.png"
+      },
+      {
+        "text": "Vuesax",
+        "url": "https://vuesax.com/",
+        "desc": "Vue开源组件库"
       }
     ]
   },
