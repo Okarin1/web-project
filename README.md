@@ -99,9 +99,9 @@ yarn serve
 如果你不喜欢头部的诗句，可以删除上面的文件，同时修改下面代码
 
 ```js
-3    <poem/> //删除
-19   import Poem from './Poem.vue' //删除
-22   components: { WebLinks, Poem}, => components: { WebLinks}, //修改
+   <poem/> //删除
+   import Poem from './Poem.vue' //删除
+   components: { WebLinks, Poem}, => components: { WebLinks}, //修改
 ```
 
 ### 标题和描述
@@ -132,6 +132,7 @@ yarn serve
 
 将修改后的项目，新建一个仓库并连接vercel自动打包部署，更多教程请自行搜索
 
-## 支付宝打赏
+## 打赏
 
-<img width="200" src="./src/assets/img/alipay.jpg" alt="支付宝打赏">
+[点击链接请我喝瓶美汁源吧！](https://donate.okarin.cn/)
+
