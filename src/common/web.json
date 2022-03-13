@@ -181,8 +181,8 @@
       },
       {
         "text": "HTML5 神奇效果",
-        "url": "http://fff.cmiscm.com/",
-        "icon": "https://api.uomg.com/api/get.favicon?url=http://fff.cmiscm.com/",
+        "url": "https://fff.cmiscm.com/",
+        "icon": "https://api.uomg.com/api/get.favicon?url=https://fff.cmiscm.com/",
         "desc": "各种神奇效果"
       },
       {
@@ -222,13 +222,6 @@
         "text": "window-swap",
         "url": "https://www.window-swap.com/",
         "desc": "开窗户"
-      },
-
-      {
-        "text": "hackertyper",
-        "url": "http://hackcode.ishoulu.com/hackertyper/",
-        "icon": "https://www.iplaysoft.com/favicon.ico",
-        "desc": "假装黑客"
       },
       {
         "text": "Windows Update Prank",
@@ -384,7 +377,7 @@
       {
         "text": "Greate Beautiful Posts",
         "url": "https://poet.so/",
-        "desc": "生成像素风对话框"
+        "desc": "生成好看的分享卡片"
       }
     ]
   },

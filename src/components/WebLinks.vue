@@ -1,7 +1,7 @@
 <template>
   <div class="nav">
-    <ul class="links" v-for="navbarItem in navbarUsers" :key="navbarItem.title">
-      <li v-for="(items, index) in navbarItem.children" :key="index">
+    <ul class="links" >
+      <li v-for="(items, index) of webLink" :key="index">
         <a :href="items.url" :title="items.desc" target="_blank" rel="noopener noreferrer">
           <img v-lazy="showIcon(items)" :key="items.url" />
           {{ items.text }}
@@ -12,40 +12,25 @@
 </template>
 
 <script>
-import data from "@/common/web.json"
+
 export default {
   name: "WebLinks",
   props: {
-    navbars: {
-      type: String,
-      default() {
-        " "
+    webLink: {
+      type: Object,
+      default: () => {
+        return {};
       },
     },
   },
-  data() {
-    return {
-      navbarInfo: [],
-    }
-  },
+
+  
   methods: {
     showIcon(item) {
-      return item.icon
-        ? item.icon
-        : `https://favicon.okarin.workers.dev/api/getFavicon?url=${item.url}&size=32`
+      return item.icon ? item.icon : `https://favicon.okarin.workers.dev/api/getFavicon?url=${item.url}&size=32`
       // return `https://api.uomg.com/api/get.favicon?url=${item.url}`
     },
-    webCount(navbars) {
-      return this.navbarInfo.filter((navbarItem) => navbarItem.title === navbars)[0].children.length
-    },
-  },
-  computed: {
-    navbarUsers() {
-      return this.navbarInfo.filter((navbarItem) => navbarItem.title === this.navbars)
-    },
-  },
-  mounted() {
-    this.navbarInfo = data
+    
   },
 }
 </script>
