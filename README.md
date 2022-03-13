@@ -22,10 +22,10 @@ yarn serve
 
 ## 如何更换内容
 
-1. 在项目的 `src` 中的 `common` 文件夹中的 `web.json` 文件换成你自己的版本
-2. 将项目的 `src` 中的 `components` 文件夹中的 `HelloWorld.vue` 文件中的 `titleArray` 换成你自己的分类
+在项目的 `src` 中的 `common` 文件夹中的 `web.json` 文件换成你自己的版本
 
-### 一、设置 json 格式
+
+### 设置 json 格式
 
 >文件位置/src/common/web.json
 
@@ -66,19 +66,6 @@ yarn serve
     ]
   },
 ]
-```
-### 二、设置分类名字
-
->文件位置/src/components/HelloWorld.vue
-
-**重要：请务必确定与json中的分类名字一样**
-
-```js
-      titleArray: [
-        "实用网站",
-        "有趣网站"
-      ],
-```
 
 ## 个性化
 
@@ -94,14 +81,14 @@ yarn serve
 
 ### 去除诗词
 
->文件位置/src/components/Poem.vue
+>文件位置/src/App.vue
 
 如果你不喜欢头部的诗句，可以删除上面的文件，同时修改下面代码
 
 ```js
    <poem/> //删除
    import Poem from './Poem.vue' //删除
-   components: { WebLinks, Poem}, => components: { WebLinks}, //修改
+   components: {WebSet,Poem,BackToTop}, => components: { WebSet,BackToTop}, //修改
 ```
 
 ### 标题和描述
@@ -116,7 +103,7 @@ yarn serve
 ```
 ### 页脚
 
->文件位置/src/components/HelloWorld.vue
+>文件位置/src/App.vue
 
 不建议修改页脚，如果你一定要修改的话，更改如下文件
 
@@ -131,6 +118,7 @@ yarn serve
 本页面目前部署在[vercel](https://vercel.com/)
 
 将修改后的项目，新建一个仓库并连接vercel自动打包部署，更多教程请自行搜索
+
 
 ## 打赏
 
