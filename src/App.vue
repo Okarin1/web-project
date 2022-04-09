@@ -34,6 +34,7 @@ export default {
     data.forEach((opt) => {
       this.webSetArr.push(getWebSet(opt));
     });
+    console.log("░▒█▀▀▀█░▒█░▄▀░█▀▀▄░▒█▀▀▄░▀█▀░▒█▄░▒█\n░▒█░░▒█░▒█▀▄░▒█▄▄█░▒█▄▄▀░▒█░░▒█▒█▒█\n░▒█▄▄▄█░▒█░▒█▒█░▒█░▒█░▒█░▄█▄░▒█░░▀█\n\n送报少年(okarin.cn)制作")
   },
   data() {
     return {
