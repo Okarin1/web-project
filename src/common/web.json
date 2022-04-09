@@ -59,6 +59,16 @@
         "desc": "沉浸在纵横开阔、左图右史的知识海洋中"
       },
       {
+        "text": "宜家特价榜",
+        "url": "https://ikea-lp.netlify.app/",
+        "desc": "一个提供所有品类的宜家低价物品的网站"
+      },
+      {
+        "text": "纯净下载",
+        "url": "http://soft.tinybad.cn/",
+        "desc": "一个纯净下载网站，帮你远离捆绑软件干扰"
+      },
+      {
         "text": "做音乐",
         "url": "https://learningmusic.ableton.com/",
         "desc": "学习到音乐创作的基础知识，无需任何经验或设备，在浏览器中完成所有工作"
@@ -89,6 +99,11 @@
         "text": "GBT乐赏游戏空间",
         "url": "http://gbtgame.ys168.com/",
         "desc": "寻宝"
+      },
+      {
+        "text": "全国音游地图",
+        "url": "https://map.bemanicn.com/",
+        "desc": "为音游街机爱好者提供,像素风太喜欢了"
       },
       {
         "text": "Wuxia World",
@@ -191,6 +206,12 @@
         "desc": "AI音乐推荐"
       },
       {
+        "text": "恋爱循环论证器",
+        "url": "https://love.okarin.cn/",
+        "icon": "https://api.uomg.com/api/get.favicon?url=https://okarin.cn",
+        "desc": "伟大的送报少年证明了每一个数都可以被分解为5201314的公式 (不是"
+      },
+      {
         "text": "人工智障写作",
         "url": "http://if.caiyunai.com/dream/",
         "desc": "彩云小梦尝鲜版 - AI续写"
@@ -219,15 +240,20 @@
         "desc": "背景白噪音"
       },
       {
+        "text": "纪妖",
+        "url": "https://www.cbaigui.com/",
+        "desc": "收集中国古今妖怪"
+      },
+      {
         "text": "window-swap",
         "url": "https://www.window-swap.com/",
         "desc": "开窗户"
       },
       {
-        "text": "Windows Update Prank",
+        "text": "假装Windows升级",
         "url": "http://hackcode.ishoulu.com/hackertyper/",
         "icon": "https://www.microsoft.com/favicon.ico",
-        "desc": "假装Windows升级界面"
+        "desc": "假装Windows升级界面，享受摸鱼时光吧"
       },
 
       {
@@ -244,6 +270,11 @@
         "text": "在线架子鼓",
         "url": "http://tool.mkblog.cn/durms",
         "desc": "一套架子鼓，记得戴耳机!"
+      },
+      {
+        "text": "templatemaker",
+        "url": "https://www.templatemaker.nl/zh/",
+        "desc": "各种纸盒折纸教程"
       }
     ]
   },
@@ -289,9 +320,9 @@
         "desc": "在线书法字体生成，AI矢量书法字体"
       },
       {
-        "text": "英文花体生成",
-        "url": "https://w2w.okarin.cn/",
-        "desc": "安利一波自己做的小工具"
+        "text": "Text Editor",
+        "url": "https://texteditor.com/",
+        "desc": "在线生成艺术风格字符"
       },
       {
         "text": "ShapeFactory",
@@ -378,6 +409,16 @@
         "text": "Greate Beautiful Posts",
         "url": "https://poet.so/",
         "desc": "生成好看的分享卡片"
+      },
+      {
+        "text": "Text Chat Animator",
+        "url": "https://chat-animator.com/",
+        "desc": "创建仿真对话消息并生成视频或 GIF 图"
+      },
+      {
+        "text": "PixelMe",
+        "url": "https://pixel-me.tokyo/en/",
+        "desc": "照片像素化工具"
       }
     ]
   },
