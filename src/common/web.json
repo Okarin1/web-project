@@ -20,7 +20,7 @@
       {
         "text": "Pexels 免费素材图片",
         "url": "https://www.pexels.com/",
-        "desc": "才华横溢的摄影作者在这里免费分享最精彩的素材图片和视频"
+        "desc": "免费的素材图片和视频"
       },
       {
         "text": "iData",
@@ -251,7 +251,7 @@
       },
       {
         "text": "假装Windows升级",
-        "url": "http://hackcode.ishoulu.com/hackertyper/",
+        "url": "https://fakeupdate.net/",
         "icon": "https://www.microsoft.com/favicon.ico",
         "desc": "假装Windows升级界面，享受摸鱼时光吧"
       },
@@ -419,6 +419,16 @@
         "text": "PixelMe",
         "url": "https://pixel-me.tokyo/en/",
         "desc": "照片像素化工具"
+      },
+      {
+        "text": "Device Shots",
+        "url": "https://deviceshots.com/",
+        "desc": "多种设备套壳截图工具"
+      },
+      {
+        "text": "BrowserFrame",
+        "url": "https://browserframe.com/",
+        "desc": "浏览器套壳截图工具"
       }
     ]
   },
