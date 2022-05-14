@@ -27,8 +27,8 @@ export default {
   
   methods: {
     showIcon(item) {
-      return item.icon ? item.icon : `https://favicons.fuzqing.workers.dev/api/getFavicon?url=${item.url}&size=32`
-      // return `https://api.uomg.com/api/get.favicon?url=${item.url}`
+      //return item.icon ? item.icon : `https://favicon.okarin.workers.dev/api/getFavicon?url=${item.url}&size=32`
+      return item.icon ? item.icon : `https://api.uomg.com/api/get.favicon?url=${item.url}`
     },
     
   },
