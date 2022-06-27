@@ -344,11 +344,6 @@
         "url": "https://iconpark.oceanengine.com/"
       },
       {
-        "text": "Font Awesome 中文网",
-        "url": "http://www.fontawesome.com.cn/faicons/",
-        "icon": "https://fontawesome.com/favicon.ico"
-      },
-      {
         "text": "Free Mesh Gradient",
         "url": "https://products.ls.graphics/mesh-gradients/",
         "icon": "https://assets-global.website-files.com/5bfd1275cc56e15ce750b18e/5bfd1275cc56e1460d50b19d_Logo%20Copy%202.svg",
@@ -675,11 +670,6 @@
         "text": "海の見える駅を探す",
         "url": "https://seaside-station.com/region/hokkaido/",
         "desc": "记录日本靠海的车站"
-      },
-      {
-        "text": "日本高校制服図鑑",
-        "url": "http://www.seihuku-zukan.com/",
-        "icon": "http://uniform.wingzero.tw/favicon.png"
       }
     ]
   }
