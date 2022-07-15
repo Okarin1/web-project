@@ -87,6 +87,16 @@
         "desc": "拼音缩写释义"
       },
       {
+        "text": "图片找番",
+        "url": "https://trace.moe/",
+        "desc": "根据图片查找番剧"
+      },
+      {
+        "text": "找台词",
+        "url": "http://www.zhaotaici.cn/",
+        "desc": "根据台词找电影"
+      },
+      {
         "text": "windy 天气",
         "url": "https://www.windy.com/"
       },
@@ -255,11 +265,15 @@
         "icon": "https://www.microsoft.com/favicon.ico",
         "desc": "假装Windows升级界面，享受摸鱼时光吧"
       },
-
       {
         "text": "沙雕新闻",
         "url": "https://shadiao.plus/",
         "desc": "收集了很多沙雕社会新闻"
+      },
+      {
+        "text": "ANIMATED DRAWINGS",
+        "url": "https://sketch.metademolab.com/",
+        "desc": "让画作动起来"
       },
       {
         "text": "Pointer Pointer",
@@ -276,6 +290,7 @@
         "url": "https://www.templatemaker.nl/zh/",
         "desc": "各种纸盒折纸教程"
       }
+
     ]
   },
   {
@@ -289,6 +304,16 @@
         "text": "BgRemover",
         "url": "https://www.aigei.com/bgremover",
         "desc": "抠图"
+      },
+      {
+        "text": "Magic Eraser",
+        "url": "https://www.magiceraser.io/",
+        "desc": "魔法消除"
+      },
+      {
+        "text": "Background Eraser",
+        "url": "https://www.backgrounderaser.io",
+        "desc": "消除背景"
       },
       {
         "text": "皮卡智能抠图",
@@ -375,9 +400,19 @@
         "desc": "用你的数码照片创造美丽的艺术作品"
       },
       {
+        "text": "Image Colorization",
+        "url": "https://deepai.org/machine-learning-model/colorizer",
+        "desc": "黑白照片上色"
+      },
+      {
         "text": "Selfie2Anime",
         "url": "https://selfie2anime.com/",
         "desc": "动漫头像生成"
+      },
+      {
+        "text": "TOONME",
+        "url": "https://toonme.com/",
+        "desc": "卡通化你的脸"
       },
       {
         "text": "Plot Parade",
